@@ -7,7 +7,7 @@
 
 - 📫 reach me at: **rvcoelho0@gmail.com**
 
-- 📄 Know about my experiences: [resume](https://drive.google.com/file/d/1oQpy7zdAC6IWNAqToaI2ctUPxuuwElEY/view?usp=sharing)
+- 📄 Know about my experiences: [my resume](https://drive.google.com/file/d/1oQpy7zdAC6IWNAqToaI2ctUPxuuwElEY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
