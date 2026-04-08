@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Spring Boot to enhance my Back-End capabilities**
 
-- 📫 reach me: **rvcoelho0@gmail.com**
+- 📫 reach me at: **rvcoelho0@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/125maKVx9lBuw9nFUN34qbyNyybcgZGWV/view?usp=sharing](https://drive.google.com/file/d/125maKVx9lBuw9nFUN34qbyNyybcgZGWV/view?usp=sharing)
 
